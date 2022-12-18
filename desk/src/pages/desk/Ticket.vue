@@ -16,7 +16,7 @@
 								: ticket.status == 'Open'
 								? 'red'
 								: 'yellow'
-						"
+						" 
 						>{{ ticket.status }}</Badge
 					>
 				</router-link>

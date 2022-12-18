@@ -12,6 +12,7 @@
 				>
 					{{ userName }}
 				</div>
+				<div class="font-normal text-gray-900">added an email</div>
 			</div>
 			<a
 				:title="$dayjs(time)"
